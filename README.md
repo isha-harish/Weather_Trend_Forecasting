@@ -7,13 +7,14 @@ The goal of this project is to **predict temperature (in Celsius)** based on var
 
 ## 📁 Project Structure
 
+```
 📦 Weather_Trend_Forecasting
 ├── 📄 Model.ipynb   # Main notebook with complete EDA, modeling & analysis
 ├── 📄 requirements.txt        
 ├── 📄 best_model.h5                        # Saved LSTM model weights (best performing model)
 ├── 📄 report.pdf            # Detailed report outlining methodology & findings
 ├── 📄 README.md                            # Project overview and documentation (this file)
-
+```
 ---
 ## 🧾 How to Use This Repo
 
